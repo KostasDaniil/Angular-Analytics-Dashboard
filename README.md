@@ -1,7 +1,8 @@
-# Dashboard
+# Angular JS Analytics Dashboard
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.3.
 
+It provides graphs from [ZingChart](https://www.zingchart.com/gallery?type=all) and can be embedded more ZingCharts with custom data for visualization.
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
